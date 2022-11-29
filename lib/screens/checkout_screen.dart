@@ -21,7 +21,9 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
     )
   ];
 
-  Future<void> onGooglePayResult(paymentResult) async {}
+  Future<void> onGooglePayResult(paymentResult) async {
+    debugPrint(paymentResult.toString());
+  }
   void onApplePayResult(paymentResult) {
     debugPrint(paymentResult.toString());
   }

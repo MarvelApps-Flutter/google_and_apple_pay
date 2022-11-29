@@ -28,7 +28,7 @@ A new flutter app for demonstrating Apple and google pay demo.
 <b>9).</b>&nbsp;Now create a payment processing certificate<br>
 <b>9.1).</b>&nbsp;In Certificates, Identifiers & Profiles, click certificates in the sidebar then click the add button (+) on the top left.
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/select_certificate.png" height="200px"></td>
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/select_certificate.png" height="100px"></td>
 
 <b>9.2).</b>&nbsp;Scroll down to Services and select Apple Pay Payment Processing Certificate then click continue.
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/apple_pay_cert.png" height="70px"></td>

@@ -2,8 +2,8 @@
 A new flutter app for demonstrating Apple and google pay demo.
 
 # Apple pay Setup
-1).&nbsp;To begin with setup you need to have paid Apple developer account.<br>
-2).&nbsp;Install pay package , for that type flutter pub add pay.<br>
+<b>1).</b>&nbsp;To begin with setup you need to have paid Apple developer account.<br>
+<b>2).</b>&nbsp;Install pay package , for that type flutter pub add pay.<br>
 3).&nbsp;Add apple pay button to UI.<br>
 4).&nbsp;Add configuration apple_pay.json file in assets folder.<br>
 5).&nbsp;Import configuration file in pubspec.yaml as below.<br>

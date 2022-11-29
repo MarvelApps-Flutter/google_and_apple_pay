@@ -59,11 +59,11 @@ A new flutter app for demonstrating Apple and google pay demo.
 
 <b>10.3).</b>&nbsp;Type User Email Address and selected request should be Saved to disk and Let me specify key pair information then click on Continue.
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/certificate_info.png" height="200px">
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/certificate_info.png" height="300px">
 
 <b>10.4).</b>&nbsp;Now it will navigate to key Pair Information dialog , here specify key size as 256 bits and alogorithm as ECC.
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/specify_size_algo.png" height="200px">
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/specify_size_algo.png" height="300px">
 
 <b>Note : </b>If you specify other key size or algorithm it will throw error as below 
 
@@ -71,7 +71,7 @@ A new flutter app for demonstrating Apple and google pay demo.
 
 <b>10.5).</b>&nbsp;Now it will navigate to key Pair Information dialog, here specify key size as 256 bits and alogorithm as ECC then click on Continue and save your certificate.
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/specify_size_algo.png" height="200px">
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/specify_size_algo.png" height="300px">
 
 <b>10.6).</b>&nbsp;Upload the Certificate Signing Request you downloaded in the previous step, then click Continue.
 

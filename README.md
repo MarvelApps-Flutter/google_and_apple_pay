@@ -79,7 +79,7 @@ A new flutter app for demonstrating Apple and google pay demo.
 
 <b>10.7).</b>&nbsp;Click Download to download the Payment Processing Certificate (*.cer) to your computer. 
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/download_cert.png" height="260px">
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/download_cert.png" height="230px">
 
 # Demo
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/gif/demo.gif" height="480px"></td>

@@ -43,7 +43,7 @@ A new flutter app for demonstrating Apple and google pay demo.
 
 <b>9.5).</b>&nbsp;Leave the default option(No) checked for the question about whether your Merchant ID is processed exclusively in China.
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/edit_config.png" height="100px"></td>
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/edit_config.png" height="150px"></td>
 
 <b>9.6).</b>&nbsp;Now click Choose File and upload the Certificate Signing Request 
 

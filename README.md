@@ -10,7 +10,7 @@ A new flutter app for demonstrating Apple and google pay demo.
 6).&nbsp;Open Xcode and add capability of apple pay by >> opening Runner >> go to signing & capabilities then press + and search for Apple pay.<br>
 7).&nbsp;Make sure you are sign in with apple developer account and select team accordingly.<br>
 8).&nbsp;Now create a merchant identifier, you can create it through apple developer account or through xcode.Steps below are applicable for apple developer account.<br>
-8.1).&nbsp;In Certificates, Identifiers & Profiles, click Identifiers in the sidebar, then click the add button (+) on the top left.
+8.1).&nbsp;In Certificates, Identifiers & Profiles, click Identifiers in the sidebar, then click the add button (+) on the top left.<br>
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/select_identifier.png" height="100px"></td>
 
 8.2).&nbsp;Select Merchant IDs, then click continue

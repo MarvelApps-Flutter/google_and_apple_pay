@@ -39,7 +39,7 @@ A new flutter app for demonstrating Apple and google pay demo.
 
 <b>9.4).</b>&nbsp;To configure Apple Pay Payment Processing for this Merchant ID, create a Payment Processing Certificate. Apple Pay Payment Processing requires this certificate to encrypt transaction data. 
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/create_cert_encrypt.png" height="200px"></td>
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/create_cert_encrypt.png" height="300px"></td>
 
 <b>9.5).</b>&nbsp;Leave the default option(No) checked for the question about whether your Merchant ID is processed exclusively in China.
 
@@ -75,11 +75,11 @@ A new flutter app for demonstrating Apple and google pay demo.
 
 <b>10.6).</b>&nbsp;Upload the Certificate Signing Request you downloaded in the previous step, then click Continue.
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/upload_cert.png" height="200px">
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/upload_cert.png" height="300px">
 
 <b>10.7).</b>&nbsp;Click Download to download the Payment Processing Certificate (*.cer) to your computer. 
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/download_cert.png" height="200px">
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/download_cert.png" height="300px">
 
 # Demo
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/gif/demo.gif" height="480px"></td>

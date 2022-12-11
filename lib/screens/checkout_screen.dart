@@ -16,7 +16,7 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
   final _paymentItems = [
     const pay.PaymentItem(
       label: 'Total',
-      amount: '99.99',
+      amount: '1',
       status: pay.PaymentItemStatus.final_price,
     )
   ];

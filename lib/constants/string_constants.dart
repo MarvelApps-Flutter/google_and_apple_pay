@@ -26,7 +26,7 @@ class StringConstant {
   static const String securePay = "Secure Payment";
   static const String upImg = "assets/images/up.png";
   static const String total = "Total";
-  static const String amt = "\$147,45";
+  static const String amt = "\$147";
   static const String appleJsonName = "apple_pay.json";
   static const String gpayJsonName = "gpay.json";
   static const String finalStep = "This is the final step, after you touching ";

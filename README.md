@@ -81,7 +81,7 @@ A new flutter app for demonstrating Apple and google pay demo.
 
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/download_cert.png" height="230px">
 
-# Demo
+# Video Preview
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/gif/demo.gif" height="480px"></td>
 
 # Android Screenshot

@@ -16,7 +16,7 @@ A new flutter app for demonstrating Apple and google pay demo.
 <b>8.2).</b>&nbsp;<b>Select Merchant IDs</b>, then click <b>continue</b>.
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/select_merchant_id.png" height="150px"></td><br>
 
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/register_identifier.png" height="150px"></td>
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/register_identifier.png" height="130px"></td>
 
 <b>8.3).</b>&nbsp;Enter the <b>merchant description</b> and <b>identifier name</b> then click <b>continue</b>.
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/ios/register_merchant.png" height="200px"></td>

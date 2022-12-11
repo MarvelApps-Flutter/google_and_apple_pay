@@ -10,8 +10,8 @@ A new flutter app for demonstrating Apple and google pay demo.
 
 <b>3).</b>&nbsp;Hence, we need to change the following in the build.gradle of your app<br>
 <img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/android/min.png" height="50px"></td>
-<b>4).</b>&nbsp;Also add PaymentConfiguration JSON to asset folder
-<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/android/gpay.png" height="50px"></td>
+<b>4).</b>&nbsp;Also add PaymentConfiguration JSON to asset folder<br>
+<img src="https://github.com/MarvelApps-Flutter/google_and_apple_pay/blob/master/media/android/gpay.png" height="300px"></td>
 # Apple pay Setup
 <b>1).</b>&nbsp;To begin with setup you need to have <b> paid Apple developer account</b>.<br>
 <b>2).</b>&nbsp;Install <b>pay</b> package , for that type <b>flutter pub add pay</b> using terminal.<br>
